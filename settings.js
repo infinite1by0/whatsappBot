@@ -32,7 +32,7 @@ global.myweb = 'https://www.youtube.com/channel/UCQZ2YI5B3b2zzisk3856QNA'
 global.packname = 'shaun'
 global.author = 'shaunOP'
 global.sessionName = 'session'
-global.prefa = ['','!','.','_']
+global.prefa = ['!','.','_',',','!','#','@shaunOP']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
