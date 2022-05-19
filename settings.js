@@ -15,32 +15,32 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'BBA1E4D335', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['919873444645']
+global.premium = ['919873444645']
+global.ownernomer = '919873444645'
+global.ownername = 'shaunOP'
+global.botname = 'sha256waBOT'
+global.footer = '0x67'
+global.ig = 'https://github.com/shaun-0'
+global.region = 'India, Delhi'
+global.sc = 'https://github.com/infinite1by0/whatsappBot'
+global.myweb = 'https://www.youtube.com/channel/UCQZ2YI5B3b2zzisk3856QNA'
+global.packname = 'shaun'
+global.author = 'shaunOP'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','_']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    admin: 'Only shaun can do this',
+    botAdmin: 'Pahle merko Admin Banao',
+    owner: 'Only Owner have rights to this',
+    group: 'This can only be used in groups',
+    private: 'This can obly be used in DM chats',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
@@ -49,7 +49,7 @@ global.mess = {
     global.limitawal = {
     premium: "Infinity",
     free: 12,
-    monayawal: 1000
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
